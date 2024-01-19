@@ -1,0 +1,14 @@
+C:\DeforiDev\Projects\OpencorporaConverter\bin\Debug\net8.0\OpencorporaConverter.exe
+C:\DeforiDev\Projects\OpencorporaConverter\bin\Debug\net8.0\OpencorporaConverter.deps.json
+C:\DeforiDev\Projects\OpencorporaConverter\bin\Debug\net8.0\OpencorporaConverter.runtimeconfig.json
+C:\DeforiDev\Projects\OpencorporaConverter\bin\Debug\net8.0\OpencorporaConverter.dll
+C:\DeforiDev\Projects\OpencorporaConverter\bin\Debug\net8.0\OpencorporaConverter.pdb
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.AssemblyInfoInputs.cache
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.AssemblyInfo.cs
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.csproj.CoreCompileInputs.cache
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.dll
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\refint\OpencorporaConverter.dll
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.pdb
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\OpencorporaConverter.genruntimeconfig.cache
+C:\DeforiDev\Projects\OpencorporaConverter\obj\Debug\net8.0\ref\OpencorporaConverter.dll
